@@ -1,6 +1,7 @@
 # icoder_dj
-for rep
-this is a test
+Learning bootstrap 
+
+(by this making a responsive web-site)
 
 follow this link to visit on my site
 
